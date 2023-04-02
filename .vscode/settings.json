@@ -1,0 +1,9 @@
+{
+  "explorer.compactFolders": false,
+  "i18n-ally.localesPaths": [
+    "src/assets/locales"
+  ],
+  "i18n-ally.keystyle": "nested",
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
+}
